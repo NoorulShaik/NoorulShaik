@@ -1,6 +1,17 @@
-# 💫 About Me:
-# Hi there 👋, I'm Noorul Hussain<br><br>🎓 B.Tech CSE Student (2023–2027) | Aspiring Software Engineer<br><br>💻 Passionate about Coding, Problem Solving, and Building Real-World Applications.<br><br>🚀 Currently focused on:<br>- Data Structures & Algorithms (DSA)<br>- Java & Object-Oriented Programming<br>- React.js and Modern Web Development<br>- Building Full-Stack and AI-powered Projects<br><br>📚 I enjoy solving challenging problems and continuously improving my development skills through hands-on projects and competitive programming.<br><br>🏆 Highlights:<br>- Solved 500+ coding problems across LeetCode and GeeksforGeeks<br>- Strong foundation in C++, Java, Python, and JavaScript<br>- Active learner exploring Software Development and AI/ML<br>- Building projects to turn ideas into practical solutions<br><br>🌱 Currently Learning:<br>- Advanced Java<br>- React Ecosystem<br>- System Design Fundamentals<br>- Full-Stack Development<br><br>🎯 Goal:<br>To become a skilled Software Engineer who creates scalable, impactful, and user-friendly products.<br><br>⚡ Fun Fact:<br>When I'm not coding, you'll probably find me solving DSA problems, exploring new technologies, or working on my next project.<br><br>📫 Let's connect and build something amazing together!
+## 💫 About Me
 
+👋 I'm **Noorul Hussain**, a B.Tech CSE student (2023–2027) and aspiring Software Engineer.
+
+* 💻 Passionate about Coding, DSA, and Problem Solving
+* ☕ Currently learning **Java** and **React.js**
+* 🚀 Building Full-Stack and AI-powered Projects
+* 🏆 Solved **500+ problems** on LeetCode and GeeksforGeeks
+* 🌱 Exploring Software Development and AI/ML
+* 🎯 Goal: Build scalable, impactful software products
+
+⚡ Fun Fact:<br>When I'm not coding, you'll probably find me solving DSA problems, exploring new technologies, or working on my next project.<br><br>📫 Let's connect and build something amazing together!
+
+> Code • Learn • Build • Repeat 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-noorul-hussain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaiknoorul2005@gmail.com) 
