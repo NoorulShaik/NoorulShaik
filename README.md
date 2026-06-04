@@ -11,7 +11,7 @@
 
 ⚡ Fun Fact:<br>When I'm not coding, you'll probably find me solving DSA problems, exploring new technologies, or working on my next project.<br><br>📫 Let's connect and build something amazing together!
 
-<br>
+
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-noorul-hussain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaiknoorul2005@gmail.com) 
 <br>
