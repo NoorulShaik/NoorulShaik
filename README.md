@@ -23,6 +23,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NoorulShaik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 #Coding Profiles:
-[[!LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/NoorulShaik/)
-[[!GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/noorulshaik)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/NoorulShaik/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/noorulshaik)
 
