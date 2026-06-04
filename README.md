@@ -11,7 +11,6 @@
 
 ⚡ Fun Fact:<br>When I'm not coding, you'll probably find me solving DSA problems, exploring new technologies, or working on my next project.<br><br>📫 Let's connect and build something amazing together!
 
-> Code • Learn • Build • Repeat 🚀
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-noorul-hussain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaiknoorul2005@gmail.com) 
@@ -27,3 +26,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/NoorulShaik/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/noorulshaik)
 
+<br>
+<br>
+** Code • Learn • Build • Repeat 🚀**
