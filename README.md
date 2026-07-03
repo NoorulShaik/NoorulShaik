@@ -31,7 +31,7 @@ const NoorulHussainShaik = {
 
 
 <!-- Tech Stack with Icons -->
-<h2 align="center">
+<h2 >
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 
   Tech Arsenal
 </h2>
@@ -90,17 +90,18 @@ const NoorulHussainShaik = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-# Socials
+<h2>Socials</h2>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-noorul-hussain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaiknoorul2005@gmail.com) 
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-# GitHub Stats
+<h2>GitHub Stats</h2>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NoorulShaik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
-# Coding Profiles
+<h2>Coding profiles</h2>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/NoorulShaik/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/noorulshaik)
