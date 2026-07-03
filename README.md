@@ -1,3 +1,19 @@
+<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Noorul%20Hussain%20Shaik&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"> </img>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=cacf38&center=true&vCenter=true&random=false&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;LeetCode+Enthusiast+%F0%9F%8E%AF;MERN+Stack+Developer+%E2%9A%A1;System+Design+Explorer+%F0%9F%8C%90" alt="Typing SVG" />
+
+   
+<p align="center">
+  <a href="https://linkedin.com/in/shaik-noorul-hussain">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+  <a href="mailto:shaiknoorul2005@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D1483"></img>
+  </a>
+    
+</p>
+</div>
 <!-- About Me Section -->
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -90,12 +106,6 @@ const NoorulHussainShaik = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2>Socials</h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-noorul-hussain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaiknoorul2005@gmail.com) 
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2>GitHub Stats</h2>
 
